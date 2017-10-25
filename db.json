@@ -23,5 +23,34 @@
              "nameB":"ALUCHE          "
           }
        ]
+    },
+  "getroutelines":
+    {  
+       "resultCode":0,
+       "resultDescription":"Resultado de la operacion Correcta",
+       "resultValues":[  
+          {  
+           "line":35,
+           "secDetail":10,
+           "orderDetail":"1",
+           "node":5454,
+           "distance":0,
+           "distancePreviousStop":0,
+           "name":"PLAZA MAYOR",
+           "latitude":40.413075993949,
+           "longitude":-3.7068251047671
+        },
+        {  
+           "line":35,
+           "secDetail":10,
+           "orderDetail":"1",
+           "node":545,
+           "distance":468,
+           "distancePreviousStop":468,
+           "name":"LA LATINA",
+           "latitude":40.411498945461,
+           "longitude":-3.7083761279839
+        }
+       ]
     }
 }
