@@ -1,6 +1,6 @@
 {
   "GetListLines Sample": 
-    {  
+    [{  
        "resultCode":0,
        "resultDescription":"Resultado de la operacion Correcta",
        "resultValues":[  
@@ -23,9 +23,9 @@
              "nameB":"ALUCHE          "
           }
        ]
-    }
+    }]
   ,
-  "GetRouteLines": {  
+  "GetRouteLines": [{  
      "resultCode":0,
      "resultDescription":"Resultado de la operacion Correcta",
      "resultValues":[  
@@ -52,5 +52,5 @@
            "longitude":-3.7083761279839
         }
      ]
-  }
+  }]
 }
