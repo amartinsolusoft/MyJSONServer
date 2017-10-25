@@ -1,5 +1,5 @@
 {
-  "posts": {
+  "getnodelines": {
     {  
        "resultCode":0,
        "resultDescription":"Resultado de la operacion Correcta",
