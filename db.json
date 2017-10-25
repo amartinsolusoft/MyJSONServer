@@ -5,27 +5,18 @@
        "resultDescription":"Resultado de la operacion Correcta",
        "resultValues":[  
           {  
-             "groupNumber":"110",
-             "dateFirst":"24\/02\/2017                    ",
-             "dateEnd":"31\/12\/2999                    ",
              "line":"035",
              "label":"35",
              "nameA":"PLAZA MAYOR     ",
              "nameB":"CARABANCHEL ALTO"
           },
           {  
-             "groupNumber":"110",
-             "dateFirst":"11\/03\/2017                    ",
-             "dateEnd":"31\/12\/2017                    ",
              "line":"118",
              "label":"118",
              "nameA":"EMBAJADORES     ",
              "nameB":"LA PESETA       "
           },
           {  
-             "groupNumber":"110",
-             "dateFirst":"02\/02\/2017                    ",
-             "dateEnd":"31\/12\/2999                    ",
              "line":"155",
              "label":"155",
              "nameA":"PLAZA ELIPTICA  ",
